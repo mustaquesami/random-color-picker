@@ -1,0 +1,17 @@
+.colorarea-rgb{
+    border: 1px solid tomato;
+    height: 500px;
+}
+.colorarea-hex{
+    border: 1px solid tomato;
+    height: 500px;
+}
+.clipboard{
+    background-color: white;
+}
+.copyrgb{
+    cursor: pointer;
+}
+.copyhex{
+    cursor: pointer;
+}
